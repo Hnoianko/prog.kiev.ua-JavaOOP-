@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="214.5" y="134.0">com.gmail.gnoianko.Triangle</node>
+    <node x="36.5" y="134.0">com.gmail.gnoianko.Circle</node>
+    <node x="144.29642857142858" y="280.0">com.gmail.gnoianko.Main</node>
+    <node x="273.7297619047619" y="22.0">com.gmail.gnoianko.Shape</node>
+    <node x="59.06309523809526" y="0.0">com.gmail.gnoianko.Point</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="com.gmail.gnoianko.Triangle" target="com.gmail.gnoianko.Point">
+      <point x="0.0" y="-48.0" />
+      <point x="269.0" y="94.0" />
+      <point x="164.36309523809527" y="94.0" />
+      <point x="46.80000000000001" y="37.0" />
+    </edge>
+    <edge source="com.gmail.gnoianko.Triangle" target="com.gmail.gnoianko.Shape">
+      <point x="36.333333333333314" y="-48.0" />
+      <point x="305.3333333333333" y="114.0" />
+      <point x="314.7297619047619" y="114.0" />
+      <point x="0.0" y="15.0" />
+    </edge>
+    <edge source="com.gmail.gnoianko.Main" target="com.gmail.gnoianko.Point">
+      <point x="-28.875" y="-15.0" />
+      <point x="153.92142857142858" y="260.0" />
+      <point x="26.0" y="260.0" />
+      <point x="26.0" y="104.0" />
+      <point x="70.76309523809526" y="104.0" />
+      <point x="-46.8" y="37.0" />
+    </edge>
+    <edge source="com.gmail.gnoianko.Circle" target="com.gmail.gnoianko.Shape">
+      <point x="52.66666666666666" y="-48.0" />
+      <point x="168.16666666666666" y="114.0" />
+      <point x="287.3964285714286" y="114.0" />
+      <point x="-27.333333333333314" y="15.0" />
+    </edge>
+    <edge source="com.gmail.gnoianko.Main" target="com.gmail.gnoianko.Triangle">
+      <point x="9.625" y="-15.0" />
+      <point x="192.42142857142858" y="250.0" />
+      <point x="269.0" y="250.0" />
+      <point x="0.0" y="48.0" />
+    </edge>
+    <edge source="com.gmail.gnoianko.Main" target="com.gmail.gnoianko.Circle">
+      <point x="-9.625" y="-15.0" />
+      <point x="173.17142857142858" y="250.0" />
+      <point x="115.5" y="250.0" />
+      <point x="0.0" y="48.0" />
+    </edge>
+    <edge source="com.gmail.gnoianko.Circle" target="com.gmail.gnoianko.Point">
+      <point x="0.0" y="-48.0" />
+      <point x="115.5" y="114.0" />
+      <point x="117.56309523809526" y="114.0" />
+      <point x="0.0" y="37.0" />
+    </edge>
+    <edge source="com.gmail.gnoianko.Main" target="com.gmail.gnoianko.Shape">
+      <point x="28.875" y="-15.0" />
+      <point x="211.67142857142858" y="260.0" />
+      <point x="342.06309523809523" y="260.0" />
+      <point x="27.333333333333314" y="15.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="0.9" x="157.34615384615375" y="181.84615384615384" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Fields</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
