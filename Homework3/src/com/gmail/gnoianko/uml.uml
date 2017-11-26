@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="47.62466086647727" y="160.0">com.gmail.gnoianko.Group</node>
+    <node x="127.75278586647725" y="80.0">com.gmail.gnoianko.GroupIsFullException</node>
+    <node x="29.87466086647727" y="240.0">com.gmail.gnoianko.Main</node>
+    <node x="16.752785866477254" y="80.0">com.gmail.gnoianko.Student</node>
+    <node x="17.252785866477254" y="0.0">com.gmail.gnoianko.Human</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="com.gmail.gnoianko.Student" target="com.gmail.gnoianko.Human">
+      <point x="0.0" y="-15.0" />
+      <point x="0.0" y="15.0" />
+    </edge>
+    <edge source="com.gmail.gnoianko.Main" target="com.gmail.gnoianko.Student">
+      <point x="-15.399999999999999" y="-15.0" />
+      <point x="52.97466086647727" y="210.0" />
+      <point x="37.12466086647727" y="210.0" />
+      <point x="37.12466086647727" y="135.0" />
+      <point x="44.052785866477265" y="135.0" />
+      <point x="-18.19999999999999" y="15.0" />
+    </edge>
+    <edge source="com.gmail.gnoianko.Main" target="com.gmail.gnoianko.Group">
+      <point x="15.400000000000006" y="-15.0" />
+      <point x="83.77466086647728" y="210.0" />
+      <point x="109.87466086647727" y="210.0" />
+      <point x="20.75" y="15.0" />
+    </edge>
+    <edge source="com.gmail.gnoianko.Group" target="com.gmail.gnoianko.GroupIsFullException">
+      <point x="31.125" y="-15.0" />
+      <point x="120.24966086647727" y="135.0" />
+      <point x="168.00278586647727" y="135.0" />
+      <point x="-40.25" y="15.0" />
+    </edge>
+    <edge source="com.gmail.gnoianko.Main" target="com.gmail.gnoianko.GroupIsFullException">
+      <point x="30.799999999999997" y="-15.0" />
+      <point x="99.17466086647727" y="220.0" />
+      <point x="248.50278586647727" y="220.0" />
+      <point x="40.250000000000014" y="15.0" />
+    </edge>
+    <edge source="com.gmail.gnoianko.Group" target="com.gmail.gnoianko.Student">
+      <point x="-10.375" y="-15.0" />
+      <point x="78.74966086647727" y="135.0" />
+      <point x="80.45278586647727" y="135.0" />
+      <point x="18.200000000000017" y="15.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.2000000000000002" x="154.81818181818159" y="136.75757575757567" />
+  <SelectedNodes>
+    <node>com.gmail.gnoianko.GroupIsFullException</node>
+  </SelectedNodes>
+  <Categories />
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
